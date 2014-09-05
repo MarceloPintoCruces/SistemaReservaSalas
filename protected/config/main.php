@@ -7,7 +7,7 @@
 // CWebApplication properties can be configured here.
 return array(
 	'basePath'=>dirname(__FILE__).DIRECTORY_SEPARATOR.'..',
-	'name'=>'Sistema de Reserva de Salas',
+	'name'=>'Sistema de Reserva de Salas UBB',
 
 	// preloading 'log' component
 	'preload'=>array('log'),
